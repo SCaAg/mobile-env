@@ -1,0 +1,10 @@
+{
+    "name": "My PyTorch Dev Container",
+    "image": "srtp",
+    "runArgs": [
+        "--gpus",
+        "all"
+    ],
+    "remoteUser": "lilliu",
+    "workspaceFolder": "/home/lilliu/workspace"
+}
